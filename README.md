@@ -1,4 +1,4 @@
-# Psychic-Game
+
 ![readImg](https://user-images.githubusercontent.com/46286683/57036463-f6140480-6c19-11e9-9655-33502b69994d.PNG)
 
 
